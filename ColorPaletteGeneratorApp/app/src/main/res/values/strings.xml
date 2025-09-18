@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Color Palette Generator</string>
+    <string name="loading">Generating palette…</string>
+    <string name="theme">Theme</string>
+    <string name="cd_theme_switch">Toggle dark theme</string>
+    <string name="cd_generate_palette">Generate new palette</string>
+    <string name="cd_theme_switch_dark_on">Dark theme enabled</string>
+    <string name="cd_theme_switch_dark_off">Dark theme disabled</string>
+    <string name="cd_copy_hsl_generic">Copy HSL</string>
+    <string name="cd_copy_hex_generic">Copy HEX</string>
+    <string name="cd_copy_hsl">Copy %1$s</string>
+    <string name="cd_copy_hex">Copy %1$s</string>
+    <string name="cd_color_tile">Color tile %1$s / %2$s</string>
+    <string name="copied_value">Copied %1$s</string>
+</resources>
